@@ -32,19 +32,8 @@ operations using an e-wallet is a great example of this, and that's what motivat
 - *As a user, I want to be able to* save all cards, their transactions, and balances in my wallet
 - *As a user, I want to be able to* reload my wallet and all its cards, transactions and balances.
 
-
-## Phase 4: Task 2
-- Credit card from bank TD Bank belonging to Jamie S was added successfully on Thu Mar 31 17:58:55 PDT 2022
-- Debit card from bank ScotiaBank belonging to Maan H was added successfully on Thu Mar 31 17:59:09 PDT 2022
-- Unsuccessful : card could not be removed on Thu Mar 31 17:59:14 PDT 2022
-- Current card was switched successfully on Thu Mar 31 17:59:17 PDT 2022
-- Card at index 1 was removed successfully on Thu Mar 31 17:59:21 PDT 2022
-- Wallet was saved on Thu Mar 31 17:59:24 PDT 2022
-
-# Phase 4: Task 3
-- I would convert the card interface into an abstract super class
-- It would contain completed functionality for all common methods between CreditCard and DebitCard and abstract methods to be implemented by the sub-classes (CreditCard and DebitCard)
-- I would also want to establish a bidirectional association between Wallet and CreditCard/DebitCard
-- By doing so, each card itself would also have a field for the wallet it is assigned to. Thus, any changes made to a card in the wallet class would also reflect in the card class, which seems like an appropriate situation to implement a bi-directional relationship
-- I would abstract repetitive/identical snippets of code(eg. styling of buttons, JFrame background and size) into functions that can be called for each JFrame component, without having to re-write any code. This would improve functionality and readability.
+## Features
+- Menu Driven UI
+- Java GUI UI w/ Swing
+- Logging system of events
 
