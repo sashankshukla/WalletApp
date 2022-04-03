@@ -1,0 +1,39 @@
+{
+  "wallet": [
+    {
+      "cvv": "167",
+      "ownerName": "Sashank Shukla",
+      "cardType": "CREDIT CARD",
+      "creditLimit": 4702.79,
+      "bankName": "CIBC",
+      "transactions": [
+        {
+          "amount": 273.67,
+          "transactionName": "Walmart"
+        },
+        {
+          "amount": 23.54,
+          "transactionName": "Popeyes"
+        }
+      ]
+    },
+    {
+      "cvv": "345",
+      "ownerName": "Nakul Girish",
+      "cardType": "DEBIT CARD",
+      "currentBalance": 8987,
+      "bankName": "TD BANK",
+      "transactions": [
+        {
+          "amount": 890,
+          "transactionName": "walmart"
+        },
+        {
+          "amount": 123,
+          "transactionName": "popeyes "
+        }
+      ]
+    }
+  ],
+  "currentCard": "model.CreditCard@12edcd21"
+}

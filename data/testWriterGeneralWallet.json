@@ -1,0 +1,21 @@
+{
+    "wallet": [
+        {
+            "cvv": "167",
+            "ownerName": "Sashank Shukla",
+            "cardType": "CREDIT CARD",
+            "creditLimit": 5000,
+            "bankName": "CIBC",
+            "transactions": []
+        },
+        {
+            "cvv": "345",
+            "ownerName": "Nakul Girish",
+            "currentBalance": 500,
+            "cardType": "DEBIT CARD",
+            "bankName": "TD BANK",
+            "transactions": []
+        }
+    ],
+    "currentCard": "model.CreditCard@32d2fa64"
+}

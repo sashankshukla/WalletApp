@@ -1,0 +1,21 @@
+{
+    "wallet": [
+        {
+            "cvv": "123",
+            "ownerName": "Jamie S",
+            "cardType": "CREDIT CARD",
+            "creditLimit": 5000,
+            "bankName": "TD Bank",
+            "transactions": []
+        },
+        {
+            "cvv": "123",
+            "ownerName": "Maan H",
+            "currentBalance": 234.67,
+            "cardType": "DEBIT CARD",
+            "bankName": "ScotiaBank",
+            "transactions": []
+        }
+    ],
+    "currentCard": "model.DebitCard@e143226"
+}
