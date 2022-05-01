@@ -34,6 +34,6 @@ operations using an e-wallet is a great example of this, and that's what motivat
 
 ## Features
 - Menu Driven UI
-- Java GUI UI w/ Swing
-- Logging system of events
+- Java GUI w/ Swing
+- Logging system for events
 
